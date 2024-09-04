@@ -1,0 +1,198 @@
+Leyes UX/UI:
+
+1- Ley de Preattentive Processing- Ley de Pragnanz:
+   Cualidad de las formas visuales que captan la atencion del observador por la simplicidad, equilibrio, o estabilidad de su estructura.-
+   las personas interpretan las imagenes complejas como la forma mas simple posible, porque es la interpretacion que menos esfuerzo cognitivo requiere.
+   Esta ley nos dice que, al entrar en contacto con imagenes o elementos complejos, nuestro cerebro se cierra a simplificarlo con algo que ya conozca. 
+   Esto es, que a la hora de diseñar, tenemos que priorizar la simplicidad antes que la ambiguedad, y la cantidad. Esto es, porque la simplificacion de
+   estimulos es una cualidad humana, si nosotros lo aplicamos a la hora de desarrollar plataformas, va a ser muchisimo mejor.
+   
+   Ejemplo de la Ley de Pragnanz:
+   Estamos diseñando una App, con un Log In. Nuestra App puede tener un estilo determinado, pero si nosotros saturamos el Log In con este estilo, cambiamos 
+   las formas, colores, y saturamos la vision del observador con estilos complejos, esto puede ser abrumante. Es mucho mejor un Log In claro (u Oscuro, depende)
+   que vaya al grano, directamente, y hasta queda mejor con ciertos colores de fondo, que sea SIMPLE, facil de entender.
+
+2- Ley de Hick:
+   El tiempo de respuesta del user es directamente proporcional a la cantidad de estimulos.
+   El tiempo que lleva tomar una decision aumenta con el numero de alternativas y su complejidad.
+   Esta ley nos dice que, cuantas mas opciones tengamos, mas tardamos en elegir. Nosotros, al elegir entre X e Y, tenemos que asignarle una puntuacion
+   a cada uno, para saber que es lo que preferimos. Pero conforme vamos aumentando las opciones, mas tardamos en elegir, porque mas puntuaciones y comparaciones
+   tenems que realizar. CUIDADO: Esto no significa poner MUY POCOS ELEMENTOS, significa darle al usuario la menor cantidad de elementos posibles, SIN QUE LA
+   APP DEJE DE SER FUNCIONAL. Porque sobresimplificar, no es nada bueno tampoco. Ahora, si elegiste muy rapido en una gran variedad de opciones, esto es
+   porque sos un Usuario Entrenado. Ya te enfrentaste a situaciones con estos dilemas, entonces ya sabes lo que tenes que elegir. Tu cerebro no hace todas las
+   comparaciones, porque ya las hizo antes.
+
+   Ejemplo de la Ley de Hick:
+   Estamos desarrollando la App movil para McDonald's, y tenemos que poner los combos y opciones que tienen. Si saturamos la pantalla poniendo 
+   TODAS LAS OPCIONES, esto podria aturdir al usuario, en cambio, tenemos que poner los mas generales, tenemos que SIMPLIFICAR, y, adentro de estos, vamos 
+   poniendo los subtipos. Esto es muy parecido a ir simplificando una ecuacion matematica. 
+
+3- Ley de Tesler:
+   Para cualquier sistema existe una cierta cantidad de complejidad que no se puede reducir.
+   Siempre debemos intentar simplificar, pero hay ciertas funcionalidades que son indispensables, e inmutables.
+   En la Ley de Hick, nosotros planteamos la simplicidad como la resolucion de una ecuacion matematica, pero, en toda ecuacion, siempre se llega a un
+   punto, en el cual NO se puede simplificar mas. En caso de hacerlo, en el Desarrollo de Software, volvemos estupido al sistema. Ahora, tambien planteamos
+   una App de McDonald's, donde dijimos que poner muy pocos elementos no era nada bueno. Esta ley nos dice exactamente eso. Que hay cierta cantidad de 
+   info que no se puede reducir.
+
+   Ejemplo de la Ley de Tesler:
+   En una App de Aerolineas, antes, se pedia una cantidad excesova y abrumadora de informacion. Gracas a la Ley de Hick, se logro simplificar al maximo
+   esto hoy en dia, pero hasta un punto, ya que hay informacion INDISPENSABLE que DEBE estar presente. De lo contrario, nos perderiamos de solicitar
+   informacion al sistema, causando un error muy grave.
+
+4- Ley de Proximidad:
+   La mente tiene una disposicion natural para agrupar elementos segun su proximidad.
+   Los objetos que estan cerca, o proximos entre si, tienden a agruparse.
+   Esta es como una ley de Agrupacion. Nos dice que podemos agrupar elementos segun su forma, y/o tamaño, y/o color. Esta ley nos sirve para que, 
+   a la hora de diseñar una plataforma, si queremos agrupar ciertos elementos, si les cambiamos a forma, o el color, o el tamaño, o los ACERCAMOS entre si, 
+   el usuario va a saber a que grupo pertenece.
+
+   Ejemplo de la Ley de Proximidad:
+   Supongamos que tenemos estos elementos:
+
+   - - -   |
+   - - -   |
+   - - -   |
+   - - -   |
+   - - -   | 
+
+   En este ejemplo, agrupamos ciertos objetos segun su FORMA, para poder decirle al usuario que los - pertenecen a un grupo, y los | pertencen a otro.
+
+5- Ley o Efecto de Posicion Serial:
+   La posicion de un elemento en una secuencia afecta a la presicion de su recuerdo.
+   Los usuarios tienen la tendencia de recordar mejor el primer, y ultimo elemento de una serie.
+   Esta ley nos dice que basicamente, tendemos a recordar el primer elemento y el ultimo elemento de una lista. Esto es porque el primer elemento fue el 
+   comienzo de una serie, por lo que lo recordas muy bien, y despues, el ultimo elemento, que fue el ultimo que viste. CUIDADO: aca tambien entra en juego
+   la IMPORTANCIA de estos elementos. Si yo en una serie regular, en el medio, menciono a Jhon F. Kennedy, estamos hablando de otro tipo de elemento, 
+   completamente distinto a los demas. Por eso, para que esta ley aplique, todos los elementos DEBEN ser aislados, y tener el mismo nivel de importancia.
+   Tambien cabe aclarar que no es SI O SI el primero, y el ultimo. Puede ser el primero y el segundo, y el anteultimo y el ultimo. Basicamente, los primeros
+   elementos, y los ultimos, tendran mas probabilidad de ser recordados.
+
+   Ejemplo de la Ley o Efecto de Posicion Serial:
+   Si yo te digo que, tenes estas opciones para comprar:
+   
+   Silla Gamer RGB Multicolor
+   Silla Regular de Oficina
+   Silla Gamer Color ROJO
+   Silla V3067 Azul
+   Silla Regular Institucional
+   Silla V56698 Violeta
+   Silla Gamer Blanco Potente
+   
+   Si lo escuchas, o lo lees, lo primero que te vas a acordar, es de la Silla Gamer RGB Multicolor, y la Silla Gamer Blanco Potente.
+
+
+6-Ley de Fitts:
+  Los movimientos mas rapidos hacia objetivos mas pequeños dan una mayor tasa de error.
+  El tiempo que se necesita para llegar a un objeto es proporcional a la distancia a la que se encuentra, y su tamaño.
+  Esta ley nos dice que, como Desarrolladores, es importante darle al user un objetivo grande, visible, y natural. De lo contrario, podemos dificultarle
+  el acceso y/o la velocidad que el usuario requiere, para poder avanzar mas rapido, y hacer todo mas simple. Sin mencionar que, ademas, le haces la vida
+  mas facil al usuario, esta claro.
+
+  Ejemplo de la Ley de Fitts:
+  Si tenemos una pantalla para iniciar sesion, y el boton de "Terminado!" es chiquito, y esta muy abajo, esto es un error garrafal. El boton DEBE ser grande, 
+  vistoso, y que llame la atencion del user, que es el que va a tener que terminar el inicio de sesion. Y debe poder ofrecerle al user un movimiento que sea
+  natural. Nosotros, con el mouse, es raro que agamos un movimiento hacia abajo, asi:
+
+  ↓
+  |
+  |
+  |
+  ↓
+
+  Es mucho mas comun hacer un movimiento en diagonal, y hacia abajo, pero a la vez curvo. Es mucho mas natural.
+
+
+7- Ley de Parkinson:
+   Cuanto mas tiempo tiene un usario para realizar una tarea, mas tiempo tarda en completarla.
+   Cualquier tarea se inflara hasta que se gaste todo el tiempo disponible.
+   Esta ley nos dice que, conforme le demos mas tiempo al usuario para hacer x cosa, mas tiempo va a tardar en hacerla. Si le damos 10 minutos, lo va a hacer
+   en 10 minutos. Si le damos 1 hora, lo va a hacer en 1 hora. Si le damos 10 dias, lo va a hacer en 10 dias. Y la curva de accion del usuario, es siempre
+   mas importante al principio, y conforme le demos MAS TIEMPO, se va a esforzar cada vez menos, para hacer lo que le falta. Por eso, si le damos muy poco 
+   tiempo al usuario, la curva de accion es practicamente uniforme, porque como es "corto" lo van a hacer rapido, y con mas esmero. En resumen, al usuario
+   NO le tenemos que dar tiempo, porque si le damos mas tiempo, lo abusa, aprovechandolo al maximo. Entonces, la tarea se dilata, causando incluso, 
+   una incomodidad para el usuario.
+
+   (Esto no necesita ejemplo, ya esta dado en la explicacion)
+
+8- Ley o Efecto Von Restorff O de Aislamiento:
+   En una lista de elementos, las personas recuerdan mas los que se destacan del resto.
+   Cuando hay varios objetos similares presentes, es mas probable que se recuerde el que difiere del resto.
+   Esta ley es simple. Lo dice el nombre: Aislamiento. Las personas vamos a recordar mas un elemento que se DIFERENCIE del resto: Si son tod@s negr@s, l@ 
+   ponemos blanc@. Si son tod@s blanc@s, l@ ponemos negr@. Si son tod@s azules, l@ ponemos roj@. Si son tod@os roj@s, l@ ponemos azul. Esto OBVIAMENTE 
+   orientado a una paleta de colores atractiva. Puede diferenciarse por tamaño, colores, y forma. Estos que difieren del resto, van a destacar. Como nosotros,
+   los Programadores, que destacamos del resto, ya que somos agentes del futuro.
+  
+   Ejemplo de la Ley o Efecto Von Restorff o de Aislamiento:
+   Si tenemos un monton de opciones sobre distintos botones que llevan a distintas pantallas, y queremos que el user se dirija a UNA en especifico, le
+   cambiamos la forma, el color, o el tamaño, de modo que el usuario se preguntara porque es distinto, y/o le llamara la atencion, y el resultado sera el mismo.
+   
+
+9- Ley o Principio de Pareto:
+   El 80% de los efectos, viene del 20% de las causas.
+   La mayoria de los resultados son causados por una minoria de las razones.
+   Esta ley nos dice que, el 20% de las cosas que hacemos, nos da el 80% de los resultados.
+   Esto es, si nosotros trabajamos 8 horas al dia, hay 2 de esas horas, en las que mas eficientes somos. Si le respondemos con 8 mails a un usuario, 
+   2 van a ser los mas efectivos. ¿Como lo aplicamos a UX - UI? Identificamos lo que mas resultados nos genera, para poder agrandarlo, y asi generar mas.
+   Si nosotros le damos al usuario 10 puntos de x, van a haber 2 puntos, que nos generen los 8 puntos restantes, y los 8 puntos que le dimos, generan 
+   solamente 2 puntos. Entonces, tenemos que agrandar estos que mas puntuacion nos recaudan, para poder generar mas, y recaudar mas. 
+   Tenemos que IDENTIFICAR los errores que pueda haber, como por ejemplo, en el rendimiento, si vemos que hay cosas que producen mas retraso en el 
+   tiempo de respuesta de un usuario, tenemos que eliminar esto, ¿porque? porque tal vez, el 20% de los retrasos, e incomodidades producen el 80% de
+   los abandonos en nuestra plataforma, y si eliminamos esto, y reemplazamos por lo que sabemos que nos devuelve el 80% de algo positivo, y asi, vamos 
+   a lograr muchisimo mas, para nuestra App.
+
+   (Esto no necesita ejemplo porque esta directamente en la explicacion)
+
+
+10- Ley o Efecto Zeigarnik:
+    Las personas suelen recordar tareas incompletas o interrumpidas mejor que las completadas.
+    Cuando acabamos una tarea, es mas probable que la olvidemos que si no la acabamos.
+    Esta ley nos dice, que cuando NO terminamos una tarea, se nos queda en la cabeza, mienstras que cuando la terminamos, ya pasa a segundo plano. Nos la
+    olvidamos porque ya no la recordamos como un "algo para hacer", no estamos en alerta de olvidarnos algo porque ya lo terminamos. Un claro ejemplo 
+    de esto, es el ClipHanger de las peliculas de Marvel, el "Continuara...". Lo tenemos activado constantemente y NO lo podemos olvidar, porque todavia
+    no ha terminado. Estamos en un estado en el cual TENEMOS que acordarnos de algo, porque todavia nos sirve.
+    
+    Ejemplo de la Ley o Efecto Zeigarnik:
+    Posibles usos son, por ejemplo, el diseño de tareas incompletas, al mostrarle al usuario una tarea a medio completar, los estamos motivando, a que
+    las termine. Y van a continuar hasta completarla.Por ejemplo, mostrando un formulario parcialmente completado, se puede motivar al user para completarlo.
+    Tambien podemos elegir un progreso visual, podemos mostrar una barra de progreso o un porcentaje completado para ayudar a los usarios a mantener en su 
+    mente una tarea incompleta, y motivarlos a completarla. Tambien tenemos las notificaciones pendientes, que nos permite mostrar notificaciones o mensajes
+    pendientes para que el user pueda RECORDAR que tiene tareas incompletas, y motivarlos a completarlas.
+
+11- Ley de Miller:
+    Un usuario suele recordar alrededor de 7 elementos.
+    La cantidad de informacion que una persona puede almacenar en su memoria a corto plazo, es limitada.
+    Esta ley nos dice que, a la hora de tener que recordar ciertos elementos, es muchisimo mejor tenerlo de a partes, y de manera lenta. Si nos presentan
+    un formulario con muchisima informacion, es poco probable que la recordemos, no la entenderiamos, ya que seria exceso de informacion. Tiene que haber 
+    pausas, saber cuando y como va cada cosa, despacio, para que lo entendamos, y la hagamos correctamente.
+
+
+    (Esto no necesita ejemplo, esta dado en la explicacion)
+
+12- Ley de Jacob
+    Los usuarios prefieren aquellos sitios que funcionen igual, que los que ya conocen.
+    Los usuarios, prefieren moverse en plataformas con una interfaz que ya conozcan, antes de andar aprendiendo algo nuevo.
+    Esta ley nos dice que la gente, cuando se acostumbra a algo, se queda ahi. Es su zona de confort, porque no quieren poner su cerebro en la situacion
+    y aprender algo nuevo. Si la gente ya esta acostumbrada a que con el rojo decimos que no, y con el verde decimos que si, ¿porque cambiarlo?
+    Esta ley nos dice que no hagamos eso, porque a la gente no le va a gustar.
+
+    Ejemplo de la Ley de Jacob:
+    Esto lo podemos ver mejor en la App de Amazon, y Mercado Libre. Si miramos ambas interfaces, nos vamos a dar cuenta de que ambas tienen los mismos patrones.
+    Si la gente esta acostumbrada a tener las imagenes a la izquierda, y el boton de compra, o "Añadir al Carrito" a la derecha, no tiene sentido cambiarlo.
+    Si la gente primero añade, y despues compra, ¿porque añadir una "Añadir a la bolsa"? Seria raro. Por eso, a menos que tengamos un fundamento adecuado 
+    que justifique el cambio de patrones (tanto complejos como simples), lo mejor es adaptarnos a lo que la gente ya conoce. Con Verde decimos que si, con Rojo 
+    decimos que no.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
